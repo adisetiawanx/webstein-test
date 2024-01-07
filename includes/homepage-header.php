@@ -15,7 +15,7 @@
 	<div id="top-header" class="container relative mx-auto flex flex-col md:flex-row  items-center justify-between py-5 bg-contain border-b border-white/25 md:border-0">
         <a href="/" >
             <h1 class="text-3xl font-bold hidden">No Probs</h1>
-            <img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/logo.png") ?>" alt="No Probs"/>
+            <img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/logo.webp") ?>" alt="No Probs"/>
         </a>
         <button onclick="openMobileNav()" class="md:hidden absolute top-6 right-5"><img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/icons/burger-icon.svg") ?>" class="w-[30px] "/></button>
 		<div class="flex justify-between items-center mt-5 md:mt-0 gap-20 md:gap-40">
@@ -53,7 +53,7 @@
 					<p class="text-white/65">Google Rating</p>
 				</div>
 			</div>
-			<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/hero-bottomleft.png") ?>" alt="hero-bottomleft" class="absolute bottom-0 left-0 "/>
+			<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/hero-bottomleft.webp") ?>" alt="hero-bottomleft" class="absolute bottom-0 left-0 "/>
 		</div>
 		<div class="space-y-32 z-[999999] hidden lg:block">
 			<div class="grid grid-cols-2 gap-10 max-w-2xl">

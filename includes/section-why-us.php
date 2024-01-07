@@ -1,10 +1,10 @@
 <section id="why-us" class="bg-[#161D25] relative pb-28 px-5 xl:px-0">
-	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/why-us-top-right.png") ?>" alt="why us" class="absolute top-0 right-0" />
+	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/why-us-top-right.webp") ?>" alt="why us" class="absolute top-0 right-0" />
 	<div class="container mx-auto relative">
 		<div class="flex flex-col md:flex-row  gap-5 md:gap-20 items-center">
 			<div class="flex-1">
 				<h3 class="text-white font-bold text-5xl absolute top-24 md:top-44 left-0 tracking-wide">Why</h3>
-				<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/logo-white.png") ?>" alt="logo" />
+				<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/logo-white.webp") ?>" alt="logo" />
 			</div>
 			<div class="flex-1 mt-28">
 				<p class="text-white tracking-wider leading-8">As your trusted local emergency plumbers, we're here to solve your plumbing problem. With over 40 years of combined experience servicing the Perth area, we know it like the back of our hand - how to deal with the calcium and the unique challenges the region has.<br><br> What does that mean for you? It means we’re able to sort your issue out quickly, efficiently and properly. No probs.</p>

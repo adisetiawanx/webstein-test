@@ -1,90 +1,97 @@
 .aligncenter {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 #hero-banner {
-    background: url("../images/hero.png");
-    background-size: cover;
-    background-position: center;
+  background: url("../images/hero.webp");
+  background-size: cover;
+  background-position: center;
 }
 
 #mobile-header nav ul li {
-    color: black;
-    font-weight: 500;
-    text-transform: uppercase;
+  color: black;
+  font-weight: 500;
+  text-transform: uppercase;
 }
 
 #mobile-header nav .menu-item-has-children ul li {
-    margin-top: 5px;
-    padding-left: 10px;
-    font-weight: 400;
-    color: slategray;
+  margin-top: 5px;
+  padding-left: 10px;
+  font-weight: 400;
+  color: slategray;
 }
 
 /*for example i just used 1 card with same image*/
 
 #card {
-    background: linear-gradient(to top,rgba(22,29,37,0.00),rgba(22,29,37,0.80)),url('../images/services/card-example.png');
-    background-size: cover;
+  background: linear-gradient(
+      to top,
+      rgba(22, 29, 37, 0),
+      rgba(22, 29, 37, 0.8)
+    ),
+    url("../images/services/card-example.webp");
+  background-size: cover;
 }
 
-#card:hover{
-    background: linear-gradient(to top,rgba(22,117,237,0.80),rgba(22,117,237,0.80)),url('../images/services/card-example.png');
-    background-size: cover;
+#card:hover {
+  background: linear-gradient(
+      to top,
+      rgba(22, 117, 237, 0.8),
+      rgba(22, 117, 237, 0.8)
+    ),
+    url("../images/services/card-example.webp");
+  background-size: cover;
 }
 
 /*#card-1 ....*/
 /*#card-1:hover...*/
 
 #bottom-header nav li {
-    color: white;
-    text-transform: uppercase;
-    position: relative;
+  color: white;
+  text-transform: uppercase;
+  position: relative;
 }
 
 #bottom-header nav li:hover {
-    color: #E0FB60;
+  color: #e0fb60;
 }
 
 #bottom-header nav .menu-item-has-children {
-    display: flex;
-    gap: 3px;
-    align-items: center;
+  display: flex;
+  gap: 3px;
+  align-items: center;
 }
 
 #bottom-header nav .menu-item-has-children .sub-menu {
-    display: none;
-    position: absolute;
-    top: 100%;
-    background-color: whitesmoke;
-    padding: 0.7rem 2rem;
-    border-radius: 10%;
-
+  display: none;
+  position: absolute;
+  top: 100%;
+  background-color: whitesmoke;
+  padding: 0.7rem 2rem;
+  border-radius: 10%;
 }
 
 #bottom-header nav .menu-item-has-children .sub-menu li {
-    color: black;
+  color: black;
 }
 
 #bottom-header nav .menu-item-has-children .sub-menu li:hover {
-    color: gray;
+  color: gray;
 }
-
 
 #bottom-header nav .menu-item-has-children:hover .sub-menu {
-    display: block;
+  display: block;
 }
 
-
-#card:hover #card-number, #card:hover #card-description {
-    display: block;
+#card:hover #card-number,
+#card:hover #card-description {
+  display: block;
 }
 
 footer nav li {
-    color: white;
+  color: white;
 }
 footer nav li:hover {
-    color: #E0FB60;
-    text-decoration: underline;
+  color: #e0fb60;
+  text-decoration: underline;
 }
-

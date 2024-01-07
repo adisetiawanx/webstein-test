@@ -47,6 +47,6 @@
 			</form>
 		</div>
 	</div>
-	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/contact-bottomleft-1.png") ?>" alt="vector" class="absolute bottom-0 left-0 z-[100]" />
-	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/contact-bottomleft-2.png") ?>" alt="vector"  class="absolute bottom-0 left-0 z-[80]" />
+	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/contact-bottomleft-1.webp") ?>" alt="vector" class="absolute bottom-0 left-0 z-[100]" />
+	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/contact-bottomleft-2.webp") ?>" alt="vector"  class="absolute bottom-0 left-0 z-[80]" />
 </section>

@@ -2,7 +2,7 @@
     <div class="h-[16px] bg-gradient-to-r from-[#DFFA60] to-[#16A1EC] px-5 xl:px-0"></div>
     <div class=" container mx-auto py-10 lg:py-20 grid grid-cols-2 gap-14 lg:gap-0 lg:grid-cols-4 justify-between px-5 xl:px-0">
         <div class="col-span-2 max-w-md">
-            <img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/logo.png")?>" alt="no probs">
+            <img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/logo.webp")?>" alt="no probs">
             <p class="mt-5 tracking-wide leading-6 text-white">Got a problem at home or at work, need an emergency plumber in Perth? Give us a call, we'll fix it no probs.</p>
             <div class="mt-6 lg:mt-20 flex gap-7">
                 <a href="https://www.facebook.com" class="mt-1">

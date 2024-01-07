@@ -1,5 +1,5 @@
 <section id="cta" class="relative bg-[#1675ED] py-16 lg:py-28 min-h-[436px] px-5 xl:px-0">
-	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/cta-topleft.png") ?>" alt="cta top left" class="absolute top-0 left-0 hidden lg:block"/>
+	<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/cta-topleft.webp") ?>" alt="cta top left" class="absolute top-0 left-0 hidden lg:block"/>
 	<div class="container mx-auto flex flex-col md:flex-row gap-10 md:gap-16 lg:gap-32">
 		<div class="flex-1 z-[99999]">
 			<h4 class="text-[#E0FB60] uppercase tracking-wide font-medium">Your Plumbing Problem Not Listed Here?</h4>

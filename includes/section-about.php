@@ -9,6 +9,6 @@
 		</div>
 	</div>
 	<div class="flex-1 ">
-		<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/video-thumb.png") ?>" alt="video thumbnail" class="w-full "/>
+		<img src="<?php echo esc_url(get_template_directory_uri() . "/assets/images/video-thumb.webp") ?>" alt="video thumbnail" class="w-full "/>
 	</div>
 </section>
