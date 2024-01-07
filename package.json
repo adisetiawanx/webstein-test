@@ -1,0 +1,15 @@
+{
+  "name": "company-profile-theme",
+  "version": "1.0.0",
+  "description": "WordPress theme created to take test from Webstein by Kadek Adi Setiawan",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/tailwind_output.css --watch",
+    "build": "npx tailwindcss -o ./assets/css/tailwind_output.css "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
